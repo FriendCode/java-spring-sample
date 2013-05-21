@@ -1,3 +1,9 @@
+Sample Web Application using Java and Spring
+=============
+
+[![Code Now](https://friendco.de/widgets/image/codenow?url=https%3A%2F%2Fgithub.com%2FFriendCode%2Fjava-spring-sample.git)](https://friendco.de/widgets/url/codenow?url=https%3A%2F%2Fgithub.com%2FFriendCode%2Fjava-spring-sample.git)
+
+
 This guide will show you how to deploy a Spring MVC Hibernate application to Heroku and bind it to the free Postgres database service.
 
 Sample code is available on [github](https://github.com/heroku/devcenter-spring-mvc-hibernate) along with this document. Edits and enhancements are welcome. Just fork the repository, make your changes and send us a pull request.
